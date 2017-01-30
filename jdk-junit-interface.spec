@@ -1,6 +1,6 @@
 Name     : jdk-junit-interface
 Version  : 0.11
-Release  : 2
+Release  : 3
 URL      : http://repo2.maven.org/maven2/com/novocode/junit-interface/0.11/junit-interface-0.11.jar
 Source0  : http://repo2.maven.org/maven2/com/novocode/junit-interface/0.11/junit-interface-0.11.jar
 Source1  : http://repo2.maven.org/maven2/com/novocode/junit-interface/0.11/junit-interface-0.11.pom
